@@ -18,5 +18,5 @@ direct download link (new pc wish sse4.2(1,)
 
 ### 2 download link ###
 
-[2 direct link for old pc]( https://github.com/zakariyadjerbi38-rgb/Beta-prismlauncher-Ubuntu-deb/releases/download/download/potato_pc_prismlauncher.AppImage)
+[2 direct link for old pc]( https://github.com/zakariyadjerbi38-rgb/Beta-prismlauncher-Ubuntu-deb/releases/download/download/potato_pc_prismlaucher.AppImage)
 
