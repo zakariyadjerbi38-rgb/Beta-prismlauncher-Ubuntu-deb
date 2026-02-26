@@ -10,7 +10,7 @@ enjoy
 
 (contact me if do not finish)
 
-# 2.
+# 2. New in github ? download link !
 
 direct download link (new pc wish sse4.2(1,) 
 
