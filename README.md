@@ -1,22 +1,27 @@
 # Read this before downloading
 
-thank you for choose the post !
+Thank you for choosing this project!
 
-do not troll the post (it my ferst post please)
+* Rules: Please do not troll (this is my first post).
+* Commits: Do not add 200+ commits.
+* Support: Contact me if you have any trouble.
 
-do not add 200 commit +
+---
 
-enjoy 
+# Download Links
 
-(contact me if do not finish)
+### 1. New PC (Modern)
+Use this if your processor supports SSE4.2.
+* [Direct Download (Modern)](https://github.com/zakariyadjerbi38-rgb/Beta-prismlauncher-Ubuntu-deb/releases/download/download/PrismLauncher-Linux-x86_64.AppImage)
 
-# 2. New in github ? download link !
+### 2. Potato PC (Old CPU 2000-2014)
+Use this if the version above crashes (compatible with AMD Phenom, Athlon, and old Intel).
+* [Direct Download (Old PC)](https://github.com/zakariyadjerbi38-rgb/Beta-prismlauncher-Ubuntu-deb/releases/download/download/potato_pc_prismlaucher.AppImage)
 
-direct download link (new pc wish sse4.2(1,) 
+---
 
-[direct download]( https://github.com/zakariyadjerbi38-rgb/Beta-prismlauncher-Ubuntu-deb/releases/download/download/PrismLauncher-Linux-x86_64.AppImage)
+# Important Note for Ubuntu
+If the AppImage does not launch, you must install FUSE by running this command in your terminal:
 
-### 2 download link ###
-
-[2 direct link for old pc]( https://github.com/zakariyadjerbi38-rgb/Beta-prismlauncher-Ubuntu-deb/releases/download/download/potato_pc_prismlaucher.AppImage)
-
+```bash
+sudo apt update && sudo apt install libfuse2
