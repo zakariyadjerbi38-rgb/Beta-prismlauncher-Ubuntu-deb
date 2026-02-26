@@ -25,6 +25,7 @@ If the AppImage does not launch, you must install FUSE by running this command i
 
 ```bash
 sudo apt update && sudo apt install libfuse2
+``
 
 # Licence and found
 
