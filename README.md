@@ -25,3 +25,11 @@ If the AppImage does not launch, you must install FUSE by running this command i
 
 ```bash
 sudo apt update && sudo apt install libfuse2
+
+# Licence and found
+
+©2026 PrismLauncher
+
+all post are found in prismlauncher and it affiled product
+
+©2026 zakariyadjerbi38-rgb
