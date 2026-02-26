@@ -10,4 +10,12 @@ enjoy
 
 (contact me if do not finish)
 
-# end
+# 2.
+
+direct download link (new pc wish sse4.2(1,) 
+
+[direct download]( https://github.com/zakariyadjerbi38-rgb/Beta-prismlauncher-Ubuntu-deb/releases/download/download/PrismLauncher-Linux-x86_64.AppImage)
+
+### 2 download link ###
+
+
